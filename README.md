@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **santanubiswas2905@gmail.com**
 
-- ⚡ Fun fact **When the content wholesome, learning fun 😊**
+- ⚡ Fun fact **When the content is wholesome, learning fun 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
