@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **JavaScript Project**
 
-- 🌱 I’m currently learning **ReactJS, Java.**
+- 🌱 I’m currently learning **JavaScript & Machine Learning.**
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/santanubiswas13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="santanubiswas13" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/santanu-biswas-4162191a4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="santanu-biswas-4162191a4" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/santanubiswas2905" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="santanu-biswas-4162191a4" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14958312" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14958312" height="30" width="40" /></a>
 <a href="https://fb.com/santanu.biswas.7906" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="santanu.biswas.7906" height="30" width="40" /></a>
 <a href="https://instagram.com/santanubiswas2925" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="santanubiswas2925" height="30" width="40" /></a>
