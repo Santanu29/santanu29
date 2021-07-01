@@ -30,7 +30,7 @@
 <a href="https://codeforces.com/profile/santanu29" target="blank"><img align="center" src="images.codeforces.png" alt="santanu29" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/santanu29" target="blank"><img align="center" src="images/leetcode.png" alt="santanu29" height="40" width="40" /></a>
 <a href="https://www.hackerearth.com/@santanu2905" target="blank"><img align="center" src="images/hackerearth.png" alt="@santanu2905" height="40" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/santanu29/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="santanu29/profile" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/santanu29/profile" target="blank"><img align="center" src="images/geeksforgeeks.png" alt="santanu29/profile" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
