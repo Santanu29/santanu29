@@ -26,7 +26,7 @@
 <a href="https://instagram.com/santanubiswas2925" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="santanubiswas2925" height="30" width="40" /></a>
 <a href="https://medium.com/@santanu29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@santanu29" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/santanu29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="santanu29" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/santanu2905" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="santanu2905" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/santanu2905" target="blank"><img align="center" src="images/hackerrank.png" alt="santanu2905" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/santanu29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="santanu29" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/santanu29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="santanu29" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@santanu2905" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@santanu2905" height="30" width="40" /></a>
