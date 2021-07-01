@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/santanubiswas13" target="blank"><img align="center" src="images/twitter.png" alt="santanubiswas13" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/santanubiswas2905" target="blank"><img align="center" src="images.png" alt="santanu-biswas-4162191a4" height="40" width="40" /></a>
-<a href="https://stackoverflow.com/users/14958312" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14958312" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14958312" target="blank"><img align="center" src="images/stackoverflow.png" alt="14958312" height="40" width="40" /></a>
 <a href="https://fb.com/santanu.biswas.7906" target="blank"><img align="center" src="images/facebook.png" alt="santanu.biswas.7906" height="40" width="40" /></a>
 <a href="https://instagram.com/santanubiswas2925" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="santanubiswas2925" height="30" width="40" /></a>
 <a href="https://medium.com/@santanu29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@santanu29" height="30" width="40" /></a>
