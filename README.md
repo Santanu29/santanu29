@@ -38,4 +38,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santanu29&show_icons=true&locale=en&layout=compact" alt="santanu29" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santanu29&show_icons=true&locale=en" alt="santanu29" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santanu29&" alt="santanu29" /></p>
+
+
+
