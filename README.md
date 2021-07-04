@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santanu Biswas</h1>
-
+<h3 align="center">A passionate programming and development enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santanu29&label=Profile%20views&color=0e75b6&style=flat" alt="santanu29" /> </p>
 
