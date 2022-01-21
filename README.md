@@ -52,8 +52,7 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santanu29&show_icons=true&locale=en&layout=compact&langs_count=8" alt="santanu29" /></p>
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanishbarnwal&show_icons=true&hide_border=true&layout=compact&langs_count=8"> -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santanu29&exclude_repo=IPL-Data-Visualization&show_icons=true&locale=en&layout=compact&langs_count=8" alt="santanu29" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=santanu29&show_icons=true&locale=en" alt="santanu29" /></p>
 
