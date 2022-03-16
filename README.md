@@ -52,7 +52,7 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santanu29&exclude_repo=IPL-Data-Visualization&show_icons=true&locale=en&layout=compact&langs_count=8" alt="santanu29" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santanu29&hide=jupyter%20notebook&show_icons=true&locale=en&layout=compact&langs_count=10" alt="santanu29" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=santanu29&show_icons=true&locale=en" alt="santanu29" /></p>
 
