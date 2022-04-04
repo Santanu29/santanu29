@@ -58,7 +58,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santanu29&" alt="santanu29" /></p>
 
-![Santanu's GitHub Activity graph](https://activity-graph.herokuapp.com/graph?username=santanu29&theme=react-dark)
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santanu29&theme=vue" alt="santanu29" /></p>
 
+![Santanu's GitHub Activity graph](https://activity-graph.herokuapp.com/graph?username=santanu29&theme=react-dark)
 
 
