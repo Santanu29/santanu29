@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santanu29&column=7" alt="santanu29" /></a> </p>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Python & AI**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Next.js & Spring Boot**
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
